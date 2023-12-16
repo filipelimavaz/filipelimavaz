@@ -5,7 +5,7 @@
 
 - 📚 Bacharelando em Sistemas de Informação na [UFPB](http://www.ccae.ufpb.br/si)
 
-- 🐱‍💻 Programador full-stack em desenvolvimento 🙌 Javascript, React, Java, Springboot, SQL
+- 🐱‍💻 Programador full-stack em desenvolvimento 🙌 Javascript, React, Java, Springboot, SQL, Python
 
 - 🐱‍👤  Treinador Pokémon nas horas vagas
 
